@@ -265,11 +265,11 @@ async def about(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Unlimited-Filter-Bot")
+                        "sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://github.com/TroJanzHEX/Unlimited-Filter-Bot")
                 ],
                 [
-                    InlineKeyboardButton("BACK", callback_data="help_data"),
-                    InlineKeyboardButton("CLOSE", callback_data="close_data"),
+                    InlineKeyboardButton("Back", callback_data="help_data"),
+                    InlineKeyboardButton("Close", callback_data="close_data"),
                 ]                
             ]
         ),
