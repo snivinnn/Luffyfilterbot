@@ -52,12 +52,10 @@ See <i>/help</i> for commands and more details.</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """×<b>My Name × : 𝐋ᴜғғʏ 𝐅ɪʟᴛᴇʀ 𝐁ᴏᴛ</b>
+×<b>𝐂ʀᴇᴀᴛᴏʀ × :</b> [𝐒ɴɪᴠɪɴ](url://https://t.me/KingOfDaPirates    
 
-⭕️<b>Creater :</b> @TroJanzHEX    
-
-⭕️<b>Language :</b> <code>Python3</code>
-
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+×<b>𝐋ᴀɴɢᴜᴀɢᴇ × :</b> <code>𝐏ʏᴛʜᴏɴ3</code>
+×<b>𝐋ɪʙʀᴀʀʏ × :</b> <a href='https://docs.pyrogram.org/'>𝐏ʏʀᴏɢʀᴀᴍ 1.0.7</a> 
 
 """
